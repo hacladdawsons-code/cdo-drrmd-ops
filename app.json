@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "CdoDrrmdOps",
-    "slug": "CdoDrrmdOps",
+    "name": "CDO DRRMD Ops",
+    "slug": "cdo-drrmd-ops",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "cdodrrmdops",
-    "userInterfaceStyle": "automatic",
-    "ios": {
-      "icon": "./assets/expo.icon"
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#080c14"
     },
     "android": {
       "adaptiveIcon": {
